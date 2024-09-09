@@ -31,11 +31,6 @@ O desenvolvedor do bot não será responsável por quaisquer danos diretos, indi
 
 O desenvolvedor do bot reserva-se o direito de modificar estes Termos de Uso a qualquer momento. As alterações serão notificadas no canal de suporte do bot ou diretamente aos usuários. O uso contínuo do bot após a notificação das alterações constitui aceitação das novas condições.
 
-8. Lei Aplicável
-
-Estes Termos de Uso são regidos pelas leis do [Seu País/Estado]. Qualquer disputa relacionada a estes termos será resolvida nos tribunais competentes do [Seu País/Estado].
-Política de Privacidade do Bot Orion
-
 1. Coleta de Informações
 
 O bot Orion coleta e processa informações das interações que você realiza com ele no Discord, como mensagens e comandos. Não coletamos informações pessoais identificáveis a menos que você as forneça diretamente ao bot.
